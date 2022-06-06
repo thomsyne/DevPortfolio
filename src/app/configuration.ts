@@ -1,14 +1,14 @@
 export const Configuration =
 {
-    profileUrl:"https://avatars2.githubusercontent.com/u/54680491?s=460&u=8d75b0e5a475bc8cd6f94aa5612e2b86faff6207&v=4",
-    userName:"Abdullah Öztürk",
+    profileUrl:"https://media-exp1.licdn.com/dms/image/C5603AQFnxSScKDnS9Q/profile-displayphoto-shrink_200_200/0/1642060289617?e=1660176000&v=beta&t=ern7MksuHtFe9ETdnwsV2cxuiBQxdFwoDwb0CuvHf9g",
+    userName:"Oluwatomisin Taiwo",
     userJob:"Software Developer",
-    userLocation:"İstanbul",
-    userEmail:"oabdullahozturk@yandex.com",
-    userDateOfBirth:"12/09/1998",
-    userAddress:"Bahçelievler / Istanbul",    
-    userPhone:"(555) 123 4567",
-    aboutMe:"Abdullah Öztürk. I am fullstack developer and blogger. I interested in .net technologies for backend and angular for frontend. You can read my articles on medium.",
+    userLocation:"Lagos, Nigeria",
+    userEmail:"oluwatomisinoluwafemi@gmail.com",
+    userDateOfBirth:"08/11/199x",
+    userAddress:"Ogudu, Lagos, Nigeria",    
+    userPhone:"(816) 013 0773",
+    aboutMe:"Oluwatomisin Taiwo. I am frontend developer and part-time article writer. I am interested in Angular, React JS .NET technologies for frontend and backend development.",
 };
 
 //Personal Informations
@@ -22,27 +22,25 @@ export const Skills  =
 
 export const JobExperience  = 
 [
-    {company : "IBM / Serii" , rank : "Logistic Support Personal " , date:"07/2017 - 08/2016" , description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
-    {company : "Albayrak Bilgisayar" , rank : "Technical Service Personal" , date:"07/2015 - 07/2015" , description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
+    {company : "Accelerex Holdings" , rank : "Senior Developer " , date:"01/2022 - Present" , description:"Developing fintech applications for SMEs across Africa."},
+    {company : "Accelerex Network Limited" , rank : "Frontend Developer" , date:"08/2021 -12/2021" , description:"Developed Agency banking solutions for the company."},
+    {company : "Ha-Shem Limited" , rank : "Frontend Developer" , date:"12/2020 -08/2021" , description:"Developed SaaS soltions for Visitors Management Solutions."},
 ];
 
 //Max job experiences limit is 3 . If you add more than 3 skill , you may be disappointed.
 
 export const Education  = 
 [
-    { school : "Sivas Cumhuriyet University" , date:"09/2018 - Present" , description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
-    { school : "Türk Telekom Vocational High School" , date:"09/2013 - 07/2017" , description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
+    { school : "Obafemi Awolowo University" , date:"05/2015 - 02/2020" , description:"B.Sc Computer Engineering."},
 ];
 
 //Max education limit is 3 . If you add more than 3 skill , you may be disappointed.
 
 export const Services  = 
 [
-    { serviceName : "Web Design" ,  description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
-    { serviceName : "Desktop Development"  , description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
-    { serviceName : "Software Architecture"  , description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
-    { serviceName : "Social Media Management"  , description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
-    { serviceName : "Logo Design" ,  description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."}
+    { serviceName : "Web Design" ,  description:"Using Angular and React JS, I develop responsive websites that work effectively across different browsers and devices."},
+    { serviceName : "Software Architecture"  , description:"With my experience in backend development, I can assist with architecture design of web/mobile applications."},
+    { serviceName : "Social Media/Email Marketing"  , description:"I have over 1 year experience managing email and social media campaigns for customers on Fiverr with high conversion rates."},
 ];
 
 //Max services limit is 6 . If you add more than 6 skill , you may be disappointed.
@@ -60,10 +58,10 @@ export const Testimonials  =
 
 export const SocialMedia =
 {
-    github:"github.com",
-    instagram:"instagram.com",
-    twitter:"twitter.com",
-    linkedin:"linkedin.com",
+    github:"https://github.com/thomsyne",
+    instagram:"https://instagram.com/thomsyne",
+    twitter:"https://twitter.com/thom_syne",
+    linkedin:"https://www.linkedin.com/in/taiwo-oluwatomisin-b129b31a0/",
     medium:"medium.com",
     facebook:"facebook.com"
 }
